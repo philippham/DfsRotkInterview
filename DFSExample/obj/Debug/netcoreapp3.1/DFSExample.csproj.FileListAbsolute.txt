@@ -1,0 +1,13 @@
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\bin\Debug\netcoreapp3.1\DFSExample.exe
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\bin\Debug\netcoreapp3.1\DFSExample.deps.json
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\bin\Debug\netcoreapp3.1\DFSExample.runtimeconfig.json
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\bin\Debug\netcoreapp3.1\DFSExample.runtimeconfig.dev.json
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\bin\Debug\netcoreapp3.1\DFSExample.dll
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\bin\Debug\netcoreapp3.1\DFSExample.pdb
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\obj\Debug\netcoreapp3.1\DFSExample.csprojAssemblyReference.cache
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\obj\Debug\netcoreapp3.1\DFSExample.AssemblyInfoInputs.cache
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\obj\Debug\netcoreapp3.1\DFSExample.AssemblyInfo.cs
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\obj\Debug\netcoreapp3.1\DFSExample.dll
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\obj\Debug\netcoreapp3.1\DFSExample.pdb
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\obj\Debug\netcoreapp3.1\DFSExample.csproj.CoreCompileInputs.cache
+C:\Users\pnpham\Source\Repos\DFSExample\DFSExample\obj\Debug\netcoreapp3.1\DFSExample.genruntimeconfig.cache
